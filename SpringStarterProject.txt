@@ -1,0 +1,16 @@
+Start Spring Boot
+
+File->New->Spring Starter Project
+
+Let Service url be - https://start.spring.io
+
+Java version - 8,Type-Maven,Packing-jar
+
+Change name,group,artifact,package,description according to your ms
+Eg:
+Ms Name - Product
+group - com.ecom
+artifact - product
+package - com.ecom.product
+
+Next->Finish
